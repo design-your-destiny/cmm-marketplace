@@ -8,7 +8,7 @@ The Cosmic Money Machine takes your four finished Keeper Statements and the roug
 
 1. In Claude (Pro or higher), click **Plugins** in the sidebar.
 2. Click **Add**, then **Add marketplace**, then **Add from a repository**. Paste `https://github.com/design-your-destiny/cmm-marketplace` and click **Sync**.
-3. Install **Cosmic Money Machine**. You can skip the "Grant access" GitHub message. For a new version later, click **Check for updates** on the marketplace.
+3. Search Plugins for **cmm**, open **Cosmic Money Machine**, and click **Add**. You can skip the "Grant access" GitHub message. For a new version later, click **Check for updates** on the marketplace.
 4. Make sure code execution is turned on in your Claude settings. The studio uses it to build your Magic Model diagram link and your printable one-sheet.
 
 ## Start a session
