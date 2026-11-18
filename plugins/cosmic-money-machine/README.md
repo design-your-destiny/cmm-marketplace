@@ -23,4 +23,4 @@ Claude doesn't carry your work from one chat to the next. At the end of a sessio
 
 ---
 
-Version 2.4.4 · November 18, 2026 · For enrolled members only. See LICENSE.
+Version 2.4.5 · November 18, 2026 · For enrolled members only. See LICENSE.
