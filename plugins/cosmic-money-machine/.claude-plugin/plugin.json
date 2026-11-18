@@ -1,9 +1,10 @@
 {
   "name": "cosmic-money-machine",
   "displayName": "Cosmic Money Machine",
-  "version": "2.4.5",
+  "version": "2.4.6",
   "description": "The Cosmic Money Machine studio for members of Design Your Destiny: The Profitable Coach. Sharpen your Magic Model, build your offer, create your content, and keep your Sacred Code.",
   "author": {
     "name": "Design Your Destiny / The Profitable Coach"
-  }
+  },
+  "icon": "./.claude-plugin/icon.png"
 }
